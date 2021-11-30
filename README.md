@@ -2,8 +2,6 @@
 
 In the application publishing just index page like below. It can be edit in `src/App.js` file.
 
-![Index Page](docs/images/index.png "Index Page")
-
 ![CI/CD steps](docs/images/steps.png "CI/CD steps")
 To explain step by step what I did;
 1. Install React framework in PC
